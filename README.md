@@ -1,4 +1,4 @@
 # LP_Test-repo
 First
-``` hi bro
+``` print("hi bro")
 ```
